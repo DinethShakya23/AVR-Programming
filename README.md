@@ -1,2 +1,2 @@
 # AVR-Programming
-This repository contains my programs for AVR microcontrollers written in C.
+This repository contains my programs and Lab codes for AVR microcontrollers written in C & C++.
